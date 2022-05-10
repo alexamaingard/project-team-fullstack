@@ -3,7 +3,6 @@ Pokimo&King is a forum website to rate the first generation of Pokémon. It was 
 
 
 ### ERD
-[]()
 
 
 ### Technologies Used
