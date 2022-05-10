@@ -5,5 +5,6 @@ Pokimo&King is a forum website to rate the first generation of Pokémon. It was 
 ## ERD
 ![ERD](assets/pokemon-erd.png)
 
+
 ## Technologies Used
 HTML, CSS, Figma, React. Node.js, Express Authentication (Bcrypt, Jsonwebtoken), PostgresSQl, Prisma ORM, ElephantSQL
